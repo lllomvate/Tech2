@@ -25,3 +25,7 @@ This project demonstrates basic operations on a list of numbers read from a file
 ## CI Status
 
 ![CI Status](https://github.com/lllomvate/my-number-processor/actions/workflows/ci.yml/badge.svg)
+
+## Рисунок
+![Снимок экрана 2024-05-26 212845](https://github.com/lllomvate/Tech2/assets/167525516/0505feac-5138-42e9-b85c-5f612d519cff)
+
