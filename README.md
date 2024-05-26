@@ -24,4 +24,4 @@ This project demonstrates basic operations on a list of numbers read from a file
 
 ## CI Status
 
-![CI Status](https://github.com/YOUR_USERNAME/my-number-processor/actions/workflows/ci.yml/badge.svg)
+![CI Status](https://github.com/lllomvate/my-number-processor/actions/workflows/ci.yml/badge.svg)
